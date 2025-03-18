@@ -1,6 +1,6 @@
 # Veri Görselleştirme (Data Visualization) 
 
-## Kutu grafikler, çizgi grafikler, keman grafikler, pasta grafikler ve çubuk grafiklerin avantaj ve dezavantajlarını analiz eden bir araştırma projesi.
+## Kutu grafikler (box plot), çizgi grafikler (line graphs), keman grafikler (violin plots), pasta grafikler (pie charts) ve çubuk grafiklerin (bar graphs) avantaj ve dezavantajlarını analiz eden bir araştırma projesi.
 (A research project analyzing the advantages and disadvantages of box plots, line graphs, violin plots, pie charts, and bar graphs.)
 
 - Box Plot Nedir ?
